@@ -1,7 +1,7 @@
 # Computer Vision operations using OpenCV
 #### by Aniket N Prabhu
 
-This project aims to accomplish certain basic computer vision related operations using the OpenCV library. The tasks are described below. For a better documentation, check the pdf file in the repository.
+This project aims to accomplish certain basic computer vision related operations using the OpenCV library. The operations are described below. For a better documentation, check the pdf file in the repository.
 
 ### Operations
 
