@@ -14,6 +14,7 @@ The file hierarchy has been described below:
 
 ```sh
 .
+├── ...
 ├── code
 │   ├── task_1
 │   ├── task_2
@@ -29,4 +30,5 @@ The file hierarchy has been described below:
 │   ├── task_3
 │   ├── task_4
 ├── parameters
+└── ...
 ```
