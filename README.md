@@ -14,19 +14,19 @@ The file hierarchy has been described below:
 
 ```sh
 .
-├── code
-│   ├── task_1
-│   ├── task_2
-│   ├── task_3
-│   └── task_4
-├── images
+├── code              # contains code related to the operations
+│   ├── task_1        # Pinhole camera model and calibration
+│   ├── task_2        # Stereo calibration and rectification
+│   ├── task_3        # Sparse depth triangulation
+│   └── task_4        # Dense depth triangulation
+├── images            # Required images/data
 │   ├── task_1
 │   ├── task_2
 │   └── task_3_and_4
-├── output
+├── output            # Results
 │   ├── task_1
 │   ├── task_2
 │   ├── task_3
 │   └── task_4
-└── parameters
+└── parameters        # Output parameters (intrinsic and extrinsic matrices, etc.)
 ```
