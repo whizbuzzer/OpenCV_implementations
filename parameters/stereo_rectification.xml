@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Left_camera_rotation_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.9998149905672773e-01 6.0149970005909182e-03
+    -9.0628656746265929e-04 -6.0123078432738307e-03
+    9.9997760021846049e-01 2.9412949064285899e-03 9.2395814688155044e-04
+    -2.9357916158605848e-03 9.9999526370324920e-01</data></Left_camera_rotation_matrix>
+<Right_camera_rotation_matrix type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.9984564965900091e-01 1.2420568013908988e-02 1.2426035095000086e-02
+    -1.2383998363459343e-02 9.9991876801641988e-01
+    -3.0156181884663119e-03 -1.2462481394335118e-02
+    2.8612687284898138e-03 9.9991824650756278e-01</data></Right_camera_rotation_matrix>
+<Left_camera_projection_matrix_rectified type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>4</cols>
+  <dt>d</dt>
+  <data>
+    4.1999842097208932e+02 0. 3.3165486717224121e+02 0. 0.
+    4.1999842097208932e+02 2.8810200119018555e+02 0. 0. 0. 1. 0.</data></Left_camera_projection_matrix_rectified>
+<Right_camera_projection_matrix_rectified type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>4</cols>
+  <dt>d</dt>
+  <data>
+    4.1999842097208932e+02 0. 3.3165486717224121e+02
+    -6.4155305854575863e+02 0. 4.1999842097208932e+02
+    2.8810200119018555e+02 0. 0. 0. 1. 0.</data></Right_camera_projection_matrix_rectified>
+<Disparity-to-depth_mapping_matrix type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>4</cols>
+  <dt>d</dt>
+  <data>
+    1. 0. 0. -3.3165486717224121e+02 0. 1. 0. -2.8810200119018555e+02 0.
+    0. 0. 4.1999842097208932e+02 0. 0. 6.5465890213994360e-01 0.</data></Disparity-to-depth_mapping_matrix>
+<Left_camera_region-of-interest type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    0. 24. 471. 616.</data></Left_camera_region-of-interest>
+<Right_camera_region-of-interest type_id="opencv-matrix">
+  <rows>4</rows>
+  <cols>1</cols>
+  <dt>d</dt>
+  <data>
+    0. 29. 469. 611.</data></Right_camera_region-of-interest>
+</opencv_storage>
