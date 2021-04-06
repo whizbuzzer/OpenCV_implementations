@@ -18,15 +18,15 @@ The file hierarchy has been described below:
 │   ├── task_1
 │   ├── task_2
 │   ├── task_3
-│   ├── task_4
+│   └── task_4
 ├── images
 │   ├── task_1
 │   ├── task_2
-│   ├── task_3_and_4
+│   └── task_3_and_4
 ├── output
 │   ├── task_1
 │   ├── task_2
 │   ├── task_3
-│   ├── task_4
+│   └── task_4
 └── parameters
 ```
